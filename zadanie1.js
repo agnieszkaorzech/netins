@@ -28,8 +28,8 @@
             {low: 9001, high: 20000, val: 200},
         ];
         $scope.skladka = [
-            {val: '0.00', text: 'jednorazowa'},
-            {val: '0.02', text: '2 raty'},
+            {val: '-0.02', text: 'jednorazowa'},
+            {val: '0.00', text: '2 raty'},
             {val: '0.04', text: '4 raty'}
         ];
         $scope.jazda = [
